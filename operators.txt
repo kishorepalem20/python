@@ -1,0 +1,22 @@
+Python has several built-in data types, that can be classed as:
+
+Numeric
+iterator
+sequesnce(which are also iterators)
+mapping
+file
+class
+exception
+
+Numeric Data Types:
+
+int 
+float
+complex
+
+Integer and float Data Types 
+
+The Python integer data type is called int.
+
+Integers are just whole numbers - numbers having no fractional part; where float is another name for real numbers - numberes having a fractional part after the decimal point.
+
